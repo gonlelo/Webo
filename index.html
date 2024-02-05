@@ -35,6 +35,11 @@
       href="https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap"
       rel="stylesheet"
     />
+    <script>
+      function resizeIframe(obj) {
+        obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+      }
+    </script>
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
   </head>
@@ -114,7 +119,7 @@
             </p>
           </div>
         </div>
-        <img class="img-fluid" src="https://observatorio-ia.com/wp-content/uploads/2017/07/robot2.png" alt="Imagen de un robot pensante" />
+        <img class="img-fluid" src="https://cdn.donmai.us/original/bb/d2/bbd2cec31b0257f16c6ba8c5747f859d.gif" alt="Imagen de un robot pensante" />
       </div>
     </section>
     <!-- Projects-->
@@ -332,6 +337,7 @@
         <center background="#FFFFFF">
           Puedes encontrarnos en: <br>
           <iframe
+            size="200%"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20428.520467881077!2d-3.6735096476288707!3d40.437248693100514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228d2f6b86b6d%3A0xf68494880cb18c73!2sIES%20Clara%20Del%20Rey!5e0!3m2!1sen!2ses!4v1706005279879!5m2!1sen!2ses"
             width="600"
             height="450"
@@ -342,8 +348,6 @@
           ></iframe>
         </center>
         Copyright &copy; Your Website 2023
-        <a href='http://www.freevisitorcounters.com'>click here</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1a09ebf193464aa98ccf1d9883b33ca7c17c0664'></script>
-        <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1137745/t/13"></script>
       </div>
       
     </footer>
@@ -356,6 +360,7 @@
     <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
     <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
     <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    
     
   </body>
 </html>
