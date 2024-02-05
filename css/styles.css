@@ -11041,15 +11041,15 @@ body {
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #FABADA;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #FABADA;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #FABADA;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid#FABADA;
   }
 }
 
@@ -11152,7 +11152,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("https://cdn.discordapp.com/attachments/1155829651957100595/1204019731733024798/Designer.jpeg?ex=65d335c1&is=65c0c0c1&hm=76e2448fb2db6505eaaa32b1a2a6da2f133fb5c27c2cd3ae54fb39224f1442f3&");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11174,7 +11174,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #FABADA;
 }
 .contact-section .card h4, .contact-section .card .h4 {
   font-size: 0.8rem;
@@ -11184,7 +11184,7 @@ body {
 }
 .contact-section .card hr {
   opacity: 1;
-  border-color: #64a19d;
+  border-color: #FABADA;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -11201,7 +11201,7 @@ body {
   color: rgba(255, 255, 255, 0.3);
 }
 .contact-section .social a:hover {
-  color: rgba(255, 255, 255, 0.5);
+  color: #FABADA;
 }
 .contact-section .social a:active {
   color: #fff;
