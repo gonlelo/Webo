@@ -1,3 +1,8 @@
+HTTP/1.1 200 OK
+(...)
+X-Robots-Tag: noindex
+(...)
+
 User-agent: Googlebot
 Disallow: /nogooglebot/
 
