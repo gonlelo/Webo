@@ -2849,19 +2849,19 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #FABADA;
-  --bs-btn-border-color: #FABADA;
+  --bs-btn-bg: #990072 ;
+  --bs-btn-border-color: #990072 ;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #FABADA;
-  --bs-btn-hover-border-color: #FABADA;
+  --bs-btn-hover-bg: #FABADA ;
+  --bs-btn-hover-border-color: #990072 ;
   --bs-btn-focus-shadow-rgb: 123, 175, 172;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #FABADA;
-  --bs-btn-active-border-color: #FABADA;
+  --bs-btn-active-bg: #990072 ;
+  --bs-btn-active-border-color: #990072 ;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
-  --bs-btn-disabled-bg: #FABADA;
-  --bs-btn-disabled-border-color: #FABADA;
+  --bs-btn-disabled-bg: #990072 ;
+  --bs-btn-disabled-border-color: #F990072 ;
 }
 
 .btn-secondary {
@@ -11123,6 +11123,10 @@ body {
 .about-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom,#FFFFFF, #82C4E9 , #FABADA 95%);
+}
+.about-section2 {
+  padding-top: 10rem;
+  background: linear-gradient(to bottom,#FABADA, #82C4E9, #FABADA 95%);
 }
 .about-section p {
   margin-bottom: 5rem;
