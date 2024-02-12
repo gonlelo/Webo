@@ -11125,8 +11125,9 @@ body {
   background: linear-gradient(to bottom,#FFFFFF, #82C4E9 , #FABADA 95%);
 }
 .about-section2 {
-  padding-top: 10rem;
-  background: linear-gradient(to bottom,#FABADA, #82C4E9, #FABADA 95%);
+  padding-top: 5rem;
+  background: linear-gradient(to bottom,#FABADA, #FF51A8 99.9%);
+  padding-bottom: 10rem;
 }
 .about-section p {
   margin-bottom: 5rem;
@@ -11156,7 +11157,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("https://cdn.discordapp.com/attachments/1155829651957100595/1204287937861132288/Designer_upscayl_3x_ultramix_balanced.jpg?ex=65d42f8a&is=65c1ba8a&hm=fc986820163ee83dce59f68be249195fb1c74c48f695e639b43956c14b518a4d&");
+  background: linear-gradient(#FF51A8, transparent 30%), url("https://cdn.discordapp.com/attachments/1155829651957100595/1204287937861132288/Designer_upscayl_3x_ultramix_balanced.jpg?ex=65d42f8a&is=65c1ba8a&hm=fc986820163ee83dce59f68be249195fb1c74c48f695e639b43956c14b518a4d&");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
