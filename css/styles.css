@@ -11146,69 +11146,14 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
   background: linear-gradient(#FF51A8, transparent 30%);
   background-position: center;
   background-image: url("../assets/img/Designer_upscayl_3x_ultramix_balanced.jpg");
-=======
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-  background-image: linear-gradient(#FF51A8, transparent 30%) url("../assets/img/bosquerosa.webp");
-  /* background: linear-gradient(#FF51A8, transparent 30%); */
-  background-position: center;
-  
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
->>>>>>> parent of 974f5ba (prettyfy)
-=======
-  background: linear-gradient(#FF51A8, transparent 30%);
-  background-position: center;
-  background-image: linear-gradient(#FF51A8, transparent 30%) url("../assets/img/bosquerosa.webp");
->>>>>>> parent of d8308ac (nosepo)
-=======
-  background: linear-gradient(#FF51A8, transparent 30%);
-  background-position: center;
-  background-image: linear-gradient(#FF51A8, transparent 30%) url("../assets/img/bosquerosa.webp");
->>>>>>> parent of d8308ac (nosepo)
-=======
+
   background: linear-gradient(#FF51A8, transparent 30%), url("https://cdn.discordapp.com/attachments/1155829651957100595/1204287937861132288/Designer_upscayl_3x_ultramix_balanced.jpg?ex=65d42f8a&is=65c1ba8a&hm=fc986820163ee83dce59f68be249195fb1c74c48f695e639b43956c14b518a4d&");
   background-position: center;
->>>>>>> parent of 8120e68 (local bg img)
+
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
